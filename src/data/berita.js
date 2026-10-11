@@ -51,13 +51,13 @@ export const berita = [
     label: "Pembelajaran",
   },
 {
-    id: "penguatan-pembelajaran",
+    id: "penguatan-karakter",
     judul: "Masa Peenerimaan Tamu Ambalan",
     kategori: "Kegiatan",
     tanggal: "2026-o8-12",
     ringkasan:
       "Peserta didik baru melakukan kegiatan Masa Penerimaan Tamu Ambalan sebagai bentuk diterimanya di Kepramukaan sekolah.",
-    gambar: "/images/wali kelas.jpeg",
+    gambar: "/images/mapta.jpg",
     label: "Pembelajaran",
   },
 ];
