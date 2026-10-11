@@ -54,7 +54,7 @@ export const berita = [
     id: "penguatan-karakter",
     judul: "Masa Peenerimaan Tamu Ambalan",
     kategori: "Kegiatan",
-    tanggal: "2026-o8-12",
+    tanggal: "2026-08-12",
     ringkasan:
       "Peserta didik baru melakukan kegiatan Masa Penerimaan Tamu Ambalan sebagai bentuk diterimanya di Kepramukaan sekolah.",
     gambar: "/images/mapta.jpg",
