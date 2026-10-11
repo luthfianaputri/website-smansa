@@ -52,7 +52,7 @@ export const berita = [
   },
 {
     id: "penguatan-karakter",
-    judul: "Masa Peenerimaan Tamu Ambalan",
+    judul: "Masa Penerimaan Tamu Ambalan",
     kategori: "Kegiatan",
     tanggal: "2026-08-12",
     ringkasan:
