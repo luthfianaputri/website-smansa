@@ -50,6 +50,16 @@ export const berita = [
     gambar: "/images/wali kelas.jpeg",
     label: "Pembelajaran",
   },
+{
+    id: "penguatan-pembelajaran",
+    judul: "Masa Peenerimaan Tamu Ambalan",
+    kategori: "Kegiatan",
+    tanggal: "2026-o8-12",
+    ringkasan:
+      "Peserta didik baru melakukan kegiatan Masa Penerimaan Tamu Ambalan sebagai bentuk diterimanya di Kepramukaan sekolah.",
+    gambar: "/images/wali kelas.jpeg",
+    label: "Pembelajaran",
+  },
 ];
 
 export const kategoriBerita = [
